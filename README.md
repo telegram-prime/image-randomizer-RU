@@ -39,9 +39,9 @@
 ### - Кнопка для запроса демо-ключа находится внутри программы.
 
 ## После окончания пробного периода продукт доступен по нескольким платным подпискам:
-- Лицензия: Starter    - 10'000 рандомизированных изображений
-- Лицензия: Advanced   - 20'000 рандомизированных изображений
-- Лицензия: Permanent  - Пожизненно с неограниченным количеством рандомизированных изображений.
+- Лицензия: 1 Месяц  - 20'000 рандомизированных изображений
+- Лицензия: 1 Год    - 20'000 рандомизированных изображений
+- Лицензия: Вечная   - Пожизненно с неограниченным количеством рандомизированных изображений.
 
 
 ## Скачать:
@@ -50,33 +50,26 @@
 
 ## Видео:
  - [YouTube](https://youtu.be/FdYot5p0svs)
-  
+
+
 ## Скриншоты:
 
-![PRND_v 1 4_RU_001](https://github.com/telegram-prime/image-randomizer-RU/assets/94137664/5b4621c4-f039-49e9-bf77-2bee7ba61f92) ![PRND_v 1 4_RU_002](https://github.com/telegram-prime/image-randomizer-RU/assets/94137664/ec138820-bf63-40d5-9160-ab22bf20ed6d)
-![PRND_v 1 4_RU_003](https://github.com/telegram-prime/image-randomizer-RU/assets/94137664/6126d85d-9fb1-45b6-bca2-113af581ff53) ![PRND_v 1 4_RU_004](https://github.com/telegram-prime/image-randomizer-RU/assets/94137664/fba0df0c-0dc7-4673-a347-343a2c8f04d7)
-![RNDR_v 1 3_EN_004](https://github.com/telegram-prime/image-randomizer-RU/assets/94137664/22f10839-a1a3-4b4f-a8fb-d60e4eb717ae)
+<img src="https://github.com/user-attachments/assets/f57659ca-6e46-4c11-bea0-01017524c295" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/6f3b609b-0cf4-465e-8d3d-13db88ff0120" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/c91322f8-c063-46f3-9cf5-e94ff1503725" width="200" height="200">
 
 
 ##  Контакты:
-- Email:    manager[@]telegramprime.net
-- Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.com/icq-contact)
-- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
-
-* либо через форму связи на наших сайтах Telegram PRIME:
 - Wеb: https://telegramprime.net/ - EN Version
 - Wеb: https://telegramprime.com/ - RU Version
+
+- Email:    manager[@]telegramprime.net
+- Telegram: [Написать](https://telegramprime.net/telegram-contact)
+- TamTam:   [Написать](https://telegramprime.net/tamtam-contact)
+- Discord:  [Написать](https://telegramprime.net/discord-contact)
+- Element:  [Написать](https://telegramprime.net/element-contact)
 
 
 ## Донаты:
 * [Купить нам кофе :)](https://nowpayments.io/donation/telegramprime)
 * Благодарим Вас!
-
-
-
-
-
-
-
-
